@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi! I am Arushi 👋
 
-<!--
-**Arushi04/Arushi04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a grad student pursuing Masters in Data Science from Northeastern University, Boston.
 
-Here are some ideas to get you started:
+- 💻 I’m currently working on Image Processing
+- 🧠 I’m currently learning Machine Learning and NLP
+- 👯 I’m looking to collaborate on a cool AI/ML project.
+- 😄 Pronouns: she/her
+ 
+### You can find me on:
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+👔 [linkedin][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+[website]: https://arushi04.github.io
+[twitter]: https://twitter.com/arushi04_
+[linkedin]: https://linkedin.com/in/Arushi04
+
