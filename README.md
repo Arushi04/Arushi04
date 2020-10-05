@@ -6,7 +6,7 @@ I am a graduate student pursuing Masters in Data Science from Northeastern Unive
 - 🧠 Learning Machine Learning and NLP
 - 👯 Looking to collaborate on a cool AI/ML project.
 - 😄 Pronouns: she/her
-- 👩‍ Updates : Attended GHC'2020 and Tapia last month. Actively looking for internship opportunity for next summer in the field of Data Science/ Data Engineering and Cloud
+- 👩‍ Updates : Attended GHC'2020 and Tapia last month. Actively looking for internship opportunity for winter/summer, 2021 in the field of Data Science/ Data Engineering and Cloud
  
 ### You can find me on:
 🏡 [website][website] **|** 
