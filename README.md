@@ -4,9 +4,9 @@ I am a graduate student pursuing Masters in Data Science from Northeastern Unive
 
 - 💻 Working on Image Processing on Fashion Accessories using Google vision API
 - 🧠 Learning Machine Learning and NLP
-- 👯 Looking to collaborate on a cool AI/ML project.
+- 👯 Looking to collaborate on a project in Haktoberfest.
 - 😄 Pronouns: she/her
-- 👩‍ Updates : Attended GHC'2020 and Tapia last month. Actively looking for internship opportunity for winter/summer, 2021 in the field of Data Science/ Data Engineering and Cloud
+- 👩‍ Updates : Attended GHC'2020 and Tapia last month. Actively looking for internship opportunity for winter/summer, 2021 in the field of Data Science/ Data Engineering and Cloud.
  
 ### You can find me on:
 🏡 [website][website] **|** 
