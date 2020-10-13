@@ -2,7 +2,7 @@
 
 I am a graduate student pursuing Masters in Data Science from Northeastern University, Boston. I have worked in the industry for over 5 years in the field of Data Engineering, Cloud and DevOps. I love to learn new technologies and explore as much as I can! I am currently learning unsupervised Machine Learning. My area of interest lies in Deep Learning and NLP. My current status:
 
-- 💻 Working on Image Processing on Fashion Accessories using Google vision API
+- 💻 Working on Color Detection on Fashion Accessories images using Google vision and kmeans clustering.
 - 🧠 Learning Machine Learning and NLP
 - 👯 Looking to collaborate on a project in Haktoberfest.
 - 😄 Pronouns: she/her
