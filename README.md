@@ -4,7 +4,7 @@ I am a graduate student pursuing Masters in Data Science from Northeastern Unive
 
 - 💻 Working on Color Detection on Fashion Accessories images using Google vision and kmeans clustering.
 - 🧠 Learning Machine Learning and NLP
-- 👯 Looking to collaborate in Haktoberfest.
+- 👯 Excited to be participating in YHack!
 - 😄 Pronouns: she/her
 - 👩‍ Updates : Attended GHC'2020 and Tapia last month. Actively looking for internship opportunity for winter/summer, 2021 in the field of Data Science/ Data Engineering and Cloud.
  
