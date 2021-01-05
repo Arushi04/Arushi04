@@ -6,7 +6,7 @@ I am a graduate student pursuing Masters in Data Science from Northeastern Unive
 - 🧠 Learning Machine Learning and NLP
 - 👯 Excited to be participating in YHack!
 - 😄 Pronouns: she/her
-- 👩‍ Updates : Attended GHC'2020 and Tapia last month. Actively looking for internship opportunity for winter/summer, 2021 in the field of Data Science/ Data Engineering and Cloud.
+- 👩‍ Updates : Joining Facebook as Data Science Intern in Summer 2021!
  
 ### You can find me on:
 🏡 [website][website] **|** 
