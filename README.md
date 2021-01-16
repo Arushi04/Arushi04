@@ -6,7 +6,7 @@ I am a graduate student pursuing Masters in Data Science from Northeastern Unive
 - 🧠 Learning Machine Learning and NLP
 - 👯 Excited to be participating in YHack!
 - 😄 Pronouns: she/her
-- 👩‍ Updates : Had a great time hiking in Zion National Park and Grand Canyon during Winter Holidays! I am also excited to share that I would be joining Facebook as Data Science Intern in Summer 2021.
+- 👩‍ Updates : Had a great time hiking in Zion National Park and Grand Canyon during Winter Holidays! I am also excited to share that I would be joining Rivian as Data Science Intern in Spring 2021 and Facebook as Data Science Intern in Summer 2021.
  
 ### You can find me on:
 🏡 [website][website] **|** 
