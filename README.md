@@ -6,7 +6,7 @@ I am a graduate student pursuing Masters in Data Science from Northeastern Unive
 - 🧠 Learning Deep Learning and developing habit of reading research papers.
 - 👯 Excited to be a part of an organization who aims to keep the world adventurous forever!
 - 😄 Pronouns: she/her
-- 👩‍ Updates : Had a great time having an all girls trip at Miami! I am also excited to share that I would be joining Facebook as Data Science Intern in Summer 2021.
+- 👩‍ Updates : I am excited to share that I would be joining Facebook as Data Science Intern in Summer 2021.
  
 ### You can find me on:
 🏡 [website][website] **|** 
