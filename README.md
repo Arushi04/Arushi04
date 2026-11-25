@@ -10,11 +10,13 @@ I am a graduate student pursuing Masters in Data Science from Northeastern Unive
 ### You can find me on:
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|**
+🎓 [google scholar][scholar]
 
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [website]: https://arushi04.github.io
 [twitter]: https://twitter.com/arushi04_
 [linkedin]: https://linkedin.com/in/Arushi04
+[scholar]: https://scholar.google.com/citations?user=TjRAzzIAAAAJ&hl=en
 
