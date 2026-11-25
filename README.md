@@ -1,15 +1,29 @@
 ### Hi! I am Arushi 👋
 
-I am a graduate student pursuing Masters in Data Science from Northeastern University, Boston. I have worked in the industry for over 5 years in the field of Data Engineering, Cloud and DevOps. I love to learn new technologies and explore as much as I can! I am currently learning Deep Learning. My area of interest lies in Deep Learning and NLP. My current status:
+I’m a **Senior Hardware Analytics Engineer at Meta**, working on hardware reliability, fleet power, silicon analytics, and aging studies across large-scale systems.
 
-- 🧠 Learning NLP and developing habit of reading research papers.
-- 👯 Excited to be a part of an organization who aims to bring people closer!
+My work focuses on understanding how silicon behaves in the real world — how power, performance, reliability, and aging show up across the fleet, and how data can help detect issues earlier and make better engineering decisions.
+
+**Focus areas**
+- Hardware reliability and fleet health
+- Silicon analytics and PVT data
+- Fleet power characterization
+- Aging and degradation studies
+- Telemetry-driven fault detection
+- Power, performance, and reliability trade-offs
+
+**Interests & passions**
+- Understanding workloads, inference, and power
+- How sensors and telemetry can help detect silicon faults
+- Mapping component power to workload phases and spotting power anomalies
+- Rack power budgeting and carbon-aware computing
+- Turning fleet data into reliability decisions
+
 - 😄 Pronouns: she/her
-- 👩‍ Updates : I am happy to share that I just finished my internship with Facebook and had a wonderful experience. And would be joining them full-time soon!
- 
+
 ### You can find me on:
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
+🏡 [website][website] **|**
+🐦 [twitter][twitter] **|**
 👔 [linkedin][linkedin] **|**
 🎓 [google scholar][scholar]
 
@@ -19,4 +33,3 @@ I am a graduate student pursuing Masters in Data Science from Northeastern Unive
 [twitter]: https://twitter.com/arushi04_
 [linkedin]: https://linkedin.com/in/Arushi04
 [scholar]: https://scholar.google.com/citations?user=TjRAzzIAAAAJ&hl=en
-
