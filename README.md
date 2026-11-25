@@ -16,7 +16,7 @@ My work focuses on understanding how silicon behaves in the real world — how p
 - Hardware and power utilization with carbon-aware computing
 - Turning fleet data into reliability decisions
 
-- 😄 Pronouns: she/her
+Pronouns: she/her
 
 ### You can find me on:
 🏡 [website][website] **|**
