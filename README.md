@@ -6,17 +6,14 @@ My work focuses on understanding how silicon behaves in the real world — how p
 
 **Focus areas**
 - Hardware reliability and fleet health
-- Silicon analytics and PVT data
 - Fleet power characterization
-- Aging and degradation studies
+- Silicon characterization, failure, and degradation studies
 - Telemetry-driven fault detection
 - Power, performance, and reliability trade-offs
 
 **Interests & passions**
 - Understanding workloads, inference, and power
-- How sensors and telemetry can help detect silicon faults
-- Mapping component power to workload phases and spotting power anomalies
-- Rack power budgeting and carbon-aware computing
+- Hardware and power utilization with carbon-aware computing
 - Turning fleet data into reliability decisions
 
 - 😄 Pronouns: she/her
