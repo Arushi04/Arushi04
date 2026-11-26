@@ -1,6 +1,7 @@
 ### Hi! I am Arushi 👋
 
-I’m a **Senior Hardware Analytics Engineer and Tech Lead at Meta**, working on hardware reliability, fleet power, silicon analytics, and aging studies across large-scale systems.
+
+I’m a **Tech Lead, Hardware Analytics at Meta**, working on hardware reliability, fleet power, silicon analytics, and aging studies across large-scale systems.
 
 My work focuses on understanding how silicon behaves in the real world — how power, performance, reliability, and aging show up across the fleet, and how data can help detect issues earlier and make better engineering decisions.
 
